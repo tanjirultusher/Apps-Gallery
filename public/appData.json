@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "description": "A globally popular messaging app for simple, secure, and reliable communication, supporting text, voice, and video calls across devices.",
+    "size": 78,
+    "reviews": 135000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000000 },
+      { "name": "2 star", "count": 7500000 },
+      { "name": "3 star", "count": 12500000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 75000000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png",
+    "title": "Instagram",
+    "companyName": "Instagram",
+    "description": "A social network for sharing photos and videos, connecting with friends, and exploring content from a global community.",
+    "size": 60,
+    "reviews": 142000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 18000000 },
+      { "name": "2 star", "count": 9000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 25000000 },
+      { "name": "5 star", "count": 75000000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
+    "title": "Spotify: Music and Podcasts",
+    "companyName": "Spotify AB",
+    "description": "A leading audio streaming service giving you access to millions of songs, podcasts, and videos from creators all over the world.",
+    "size": 75,
+    "reviews": 24000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 4400000 },
+      { "name": "5 star", "count": 16000000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://static01.nyt.com/images/2021/03/03/us/03xp-amazon-logo/oakImage-1614794068335-superJumbo.jpg",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "description": "A vast online marketplace to browse, search, and buy millions of products, track orders, and manage your account from anywhere.",
+    "size": 95,
+    "reviews": 7800000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 4700000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://cdn.pixabay.com/photo/2018/05/08/21/29/paypal-3384015_640.png",
+    "title": "PayPal - Send, Shop, Manage",
+    "companyName": "PayPal, Inc.",
+    "description": "A digital wallet and online payment system to send money to friends, pay for goods, and manage financial transactions securely.",
+    "size": 88,
+    "reviews": 5200000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 3800000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjNBNIyHyiOyhi5qfFJsF1lLk4IArPWOqqTQ&s",
+    "title": "Candy Crush Saga",
+    "companyName": "King",
+    "description": "A legendary match-three puzzle game offering thousands of levels, sweet challenges, and satisfying gameplay for all ages.",
+    "size": 110,
+    "reviews": 34000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2200000 },
+      { "name": "4 star", "count": 5500000 },
+      { "name": "5 star", "count": 24000000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://static.vecteezy.com/system/resources/previews/022/484/517/non_2x/google-news-icon-logo-symbol-free-png.png",
+    "title": "Google News",
+    "companyName": "Google LLC",
+    "description": "A personalized news aggregator that organizes and highlights what’s happening in the world to help you discover relevant stories.",
+    "size": 25,
+    "reviews": 1300000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 800000 }
+    ]
+  },
+  {
+  "id": 8,
+  "image": "data:image/png;base64,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",
+  "title": "Snapchat",
+  "companyName": "Snap Inc.",
+  "description": "Snapchat is a fast and fun way to share moments with friends and family. Send photos and videos that disappear, chat, and explore Stories and Spotlight content from around the world.",
+  "size": 95,
+  "reviews": 37000000,
+  "ratingAvg": 4.2,
+  "downloads": 1000000000,
+  "ratings": [
+    { "name": "1 star", "count": 2500000 },
+    { "name": "2 star", "count": 1500000 },
+    { "name": "3 star", "count": 3500000 },
+    { "name": "4 star", "count": 7000000 },
+    { "name": "5 star", "count": 23000000 }
+  ]
+  },
+  {
+    "id": 9,
+    "image": "https://cdn.dribbble.com/userupload/22946994/file/original-bf156cd6f75eda0cab7f527b15ee6e18.png?resize=752x&vertical=center",
+    "title": "Duolingo: Language Lessons",
+    "companyName": "Duolingo",
+    "description": "A fun and effective way to learn a new language through quick, bite-sized lessons that feel like a game.",
+    "size": 55,
+    "reviews": 15000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 11700000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg",
+    "title": "Airbnb",
+    "companyName": "Airbnb, Inc.",
+    "description": "A travel app for finding unique places to stay and discovering local experiences, from private rooms to entire homes.",
+    "size": 120,
+    "reviews": 1700000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 70000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1190000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRELRjN-cREYdlysJrEBoSzD9hKLaC-bmFqtQ&s",
+    "title": "Uber Eats: Food Delivery",
+    "companyName": "Uber Technologies, Inc.",
+    "description": "A food delivery platform that lets you order meals from local restaurants and have them delivered directly to your doorstep.",
+    "size": 65,
+    "reviews": 6500000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 550000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 4000000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24ZbAapcAxBBjnNbXt5a2bWtyDgeIaUCefQ&s",
+    "title": "The Weather Channel",
+    "companyName": "The Weather Company",
+    "description": "Provides accurate weather forecasts, severe weather alerts, radar maps, and detailed meteorological information for any location.",
+    "size": 90,
+    "reviews": 3200000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 200000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 2180000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHtNIvxsOR_dH-hYGCUEW7tokIU54owrR7g&s",
+    "title": "Audible: Audiobooks & Podcasts",
+    "companyName": "Audible, Inc.",
+    "description": "An audiobook and podcast service that allows you to listen to a vast library of titles from various genres anytime, anywhere.",
+    "size": 80,
+    "reviews": 1200000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 230000 },
+      { "name": "5 star", "count": 800000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png",
+    "title": "LinkedIn: Jobs & Business News",
+    "companyName": "LinkedIn",
+    "description": "The world's largest professional network, used for career development, networking, and industry discussions.",
+    "size": 70,
+    "reviews": 2600000,
+    "ratingAvg": 4.2,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 1400000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8pr6fbafFwTH_5P-1DJLWnXqJ0jdBpu4A-Q&s",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "description": "A web mapping platform offering satellite imagery, street maps, 360° panoramic views, and real-time traffic conditions.",
+    "size": 68,
+    "reviews": 17500000,
+    "ratingAvg": 4.2,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1800000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 10500000 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://static.vecteezy.com/system/resources/previews/065/738/846/non_2x/adobe-lightroom-cc-icon-app-logo-editable-premium-social-media-design-for-digital-download-free-vector.jpg",
+    "title": "Adobe Lightroom: Photo Editor",
+    "companyName": "Adobe",
+    "description": "A powerful and intuitive photo editor and camera app that empowers you to capture, edit, and share your images.",
+    "size": 150,
+    "reviews": 1300000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 870000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "description": "A leading destination for short-form mobile video, offering a wide variety of content and creative tools for a global audience.",
+    "size": 125,
+    "reviews": 45000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 3500000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 30000000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg",
+    "title": "Microsoft Teams",
+    "companyName": "Microsoft Corporation",
+    "description": "A communication platform combining workplace chat, video meetings, file storage, and application integration for teams.",
+    "size": 98,
+    "reviews": 2100000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 1400000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Firefox_logo%2C_2019.svg",
+    "title": "Firefox Fast & Private Browser",
+    "companyName": "Mozilla",
+    "description": "A free and open-source web browser focused on delivering privacy, security, and user control over their online experience.",
+    "size": 72,
+    "reviews": 4200000,
+    "ratingAvg": 4.3,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 350000 },
+      { "name": "4 star", "count": 800000 },
+      { "name": "5 star", "count": 2600000 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSg54CR2Dya-u6cQekAcxTShn9cV6Y21AxIw&s",
+    "title": "Evernote - Note Organizer",
+    "companyName": "Evernote Corporation",
+    "description": "An app designed for note-taking, organizing, task management, and archiving, helping you capture and prioritize ideas.",
+    "size": 85,
+    "reviews": 1400000,
+    "ratingAvg": 4.1,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 770000 }
+    ]
+  }
+]
